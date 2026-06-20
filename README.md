@@ -14,7 +14,7 @@ Work through folders **01 → 08** in order.
 
 | # | Topic | Folder |
 |---|---|---|
-| 1 | Python Foundations (NumPy, Pandas) | `Numpy/` 'Pandas/'|
+| 1 | Python Foundations (NumPy, Pandas) | `Numpy/`|| 'Pandas/'|
 | 2 | Data Visualization | `Matplotlib/` |
 | 3 | Data Preprocessing | `data_preprocessing/` |
 | 4 | Supervised Learning | `Supervised_learning/` |
