@@ -14,14 +14,14 @@ Work through folders **01 → 08** in order.
 
 | # | Topic | Folder |
 |---|---|---|
-| 1 | Python Foundations (NumPy, Pandas) | `01_python_foundations/` |
-| 2 | Data Visualization | `02_data_visualization/` |
-| 3 | Data Preprocessing | `03_data_preprocessing/` |
-| 4 | Supervised Learning | `04_supervised_learning/` |
-| 5 | Unsupervised Learning | `05_unsupervised_learning/` |
-| 6 | Model Evaluation | `06_model_evaluation/` |
-| 7 | Neural Networks | `07_neural_networks/` |
-| 8 | Mini Projects | `08_mini_projects/` |
+| 1 | Python Foundations (NumPy, Pandas) | `Numpy/` 'Pandas/'|
+| 2 | Data Visualization | `Matplotlib/` |
+| 3 | Data Preprocessing | `data_preprocessing/` |
+| 4 | Supervised Learning | `Supervised_learning/` |
+| 5 | Unsupervised Learning | `Unsupervised_learning/` |
+| 6 | Model Evaluation | `Model_evaluation/` |
+| 7 | Neural Networks | `Neural_networks/` |
+| 8 | Mini Projects | `Projects/` |
 
 ## Requirements
 
@@ -43,11 +43,11 @@ understand the fundamentals first.)
 
 ## Progress tracker
 
-- [ ] 01 Python Foundations
-- [ ] 02 Data Visualization
-- [ ] 03 Data Preprocessing
-- [ ] 04 Supervised Learning
-- [ ] 05 Unsupervised Learning
-- [ ] 06 Model Evaluation
-- [ ] 07 Neural Networks
-- [ ] 08 Mini Projects
+- [ ] Python Foundations
+- [ ] Data Visualization
+- [ ] Data Preprocessing
+- [ ] Supervised Learning
+- [ ] Unsupervised Learning
+- [ ] Model Evaluation
+- [ ] Neural Networks
+- [ ] Projects
